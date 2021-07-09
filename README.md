@@ -1,13 +1,13 @@
 # links_finder
 ![1](https://user-images.githubusercontent.com/57801437/125080319-4fbdc680-e0e2-11eb-9202-33ba31c78fe1.PNG)
-![image](https://user-images.githubusercontent.com/57801437/125081407-97911d80-e0e3-11eb-9cb9-c051124abac3.png)
+![Bash 5.1](https://img.shields.io/badge/Bash-5.1-neon.svg)
 <p align="center">
   <b> A beginners friendly, Automated links finder tool. </b>
 </p>
 <p align="center">
 
 # Installation
-* You must run the installer as **root**:
+>Note : You must have **root access**
 * Just, clone this repository:
 ```bash
 sudo https://github.com/lakshyasharmacse/links_finder.git
@@ -35,4 +35,9 @@ sudo ./links_finder.sh
 ![2](https://user-images.githubusercontent.com/57801437/125080322-50565d00-e0e2-11eb-8600-51da9773fe49.PNG)
 
   ### DISCLAIMER
-                                       TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+                                       TO BE USED THIS TOOL FOR EDUCATIONAL PURPOSES ONLY.!
+
+<p align="center">
+<a href="https://hacklock.godaddysites.com/"><img title="GitHub version" src="https://img.shields.io/badge/-Website-yellow" ></a>
+  <a href="https://twitter.com/lakshyasharmahl"><img title="GitHub version" src="https://img.shields.io/badge/-Twitter-blue" ></a>
+</p>
