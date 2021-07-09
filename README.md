@@ -3,15 +3,11 @@
 ![image](https://user-images.githubusercontent.com/57801437/125081407-97911d80-e0e3-11eb-9cb9-c051124abac3.png)
 * A beginners friendly, Automated links finder tool.
 # Installation
-* You must run the installer as root:
+* You must run the installer as **root**:
 
-* Just, Clone this repository -
 1. sudo https://github.com/lakshyasharmacse/links_finder.git
-* Change to cloned directory:
 2. cd Links_finder
-* Set the installer as executable:
 3. sudo chmod 777 links_finder.sh
-* And run:
 4. sudo ./links_finder.sh
 -----------------------------------------------------------------------
 # HELP
