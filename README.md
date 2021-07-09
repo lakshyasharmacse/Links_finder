@@ -10,7 +10,7 @@
 >Note : You must have **root access**
 * Just, clone this repository:
 ```bash
-sudo https://github.com/lakshyasharmacse/links_finder.git
+sudo git clone https://github.com/lakshyasharmacse/links_finder.git
 ```
 * Change to cloned directory:
 ```bash
