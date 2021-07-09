@@ -8,7 +8,7 @@
 * Just, Clone this repository -
 1. sudo https://github.com/lakshyasharmacse/links_finder.git
 * Change to cloned directory:
-2. cd links_finder
+2. cd Links_finder
 * Set the installer as executable:
 3. sudo chmod 777 links_finder.sh
 * And run:
