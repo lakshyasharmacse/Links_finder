@@ -14,7 +14,7 @@ sudo git clone https://github.com/lakshyasharmacse/links_finder.git
 ```
 * Change to cloned directory:
 ```bash
-cd Links_finder
+cd links_finder
 ```
 * Set the installer as executable:
 ```bash
