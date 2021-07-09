@@ -2,7 +2,7 @@
 
 echo "╔══════════════════════════════════════════════╗"
 echo "║                 LINK'S FINDER                ║"
-echo "║                             BY Lakshay Sharma║"
+echo "║                             BY Lakshya Sharma║"
 echo "║  HELP How to Use {https://www.example.com/}  ║"
 echo "╚══════════════════════════════════════════════╝"
 echo -n "Enter Full URL/Domain: "
