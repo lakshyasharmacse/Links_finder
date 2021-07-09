@@ -28,6 +28,7 @@ https://www.google.co.in
 http://www.google.co.in
 http://www.google.com
 http://www.youtube.com
+
 -----------------------------------------------------------------------
 ┌──(kali㉿kali)-[~/Desktop]
 └─$ sudo ./links_finder.sh
